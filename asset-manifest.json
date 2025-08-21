@@ -1,16 +1,20 @@
 {
   "files": {
     "main.css": "/Page-Eduflex/static/css/main.b8cef071.css",
-    "main.js": "/Page-Eduflex/static/js/main.b39f747f.js",
+    "main.js": "/Page-Eduflex/static/js/main.95253857.js",
+    "static/js/977.18706de9.chunk.js": "/Page-Eduflex/static/js/977.18706de9.chunk.js",
+    "static/js/732.fb37c506.chunk.js": "/Page-Eduflex/static/js/732.fb37c506.chunk.js",
     "static/js/453.cdea6c5b.chunk.js": "/Page-Eduflex/static/js/453.cdea6c5b.chunk.js",
     "static/media/eduflex.png": "/Page-Eduflex/static/media/eduflex.0bf76bf5e36cdd871dfb.png",
     "index.html": "/Page-Eduflex/index.html",
     "main.b8cef071.css.map": "/Page-Eduflex/static/css/main.b8cef071.css.map",
-    "main.b39f747f.js.map": "/Page-Eduflex/static/js/main.b39f747f.js.map",
+    "main.95253857.js.map": "/Page-Eduflex/static/js/main.95253857.js.map",
+    "977.18706de9.chunk.js.map": "/Page-Eduflex/static/js/977.18706de9.chunk.js.map",
+    "732.fb37c506.chunk.js.map": "/Page-Eduflex/static/js/732.fb37c506.chunk.js.map",
     "453.cdea6c5b.chunk.js.map": "/Page-Eduflex/static/js/453.cdea6c5b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b8cef071.css",
-    "static/js/main.b39f747f.js"
+    "static/js/main.95253857.js"
   ]
 }
