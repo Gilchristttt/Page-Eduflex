@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Page-Eduflex/static/css/main.b8cef071.css",
+    "main.js": "/Page-Eduflex/static/js/main.b39f747f.js",
+    "static/js/453.cdea6c5b.chunk.js": "/Page-Eduflex/static/js/453.cdea6c5b.chunk.js",
+    "static/media/eduflex.png": "/Page-Eduflex/static/media/eduflex.0bf76bf5e36cdd871dfb.png",
+    "index.html": "/Page-Eduflex/index.html",
+    "main.b8cef071.css.map": "/Page-Eduflex/static/css/main.b8cef071.css.map",
+    "main.b39f747f.js.map": "/Page-Eduflex/static/js/main.b39f747f.js.map",
+    "453.cdea6c5b.chunk.js.map": "/Page-Eduflex/static/js/453.cdea6c5b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8cef071.css",
+    "static/js/main.b39f747f.js"
+  ]
+}
