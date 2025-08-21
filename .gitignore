@@ -1,0 +1,9 @@
+.env
+.vercel
+node_modules
+.cache
+.vscode
+build
+dist
+.DS_Store
+*.log
