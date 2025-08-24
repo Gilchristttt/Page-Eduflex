@@ -21,13 +21,20 @@ llm = ChatGroq(
 # ---------- FastAPI ----------
 app = FastAPI(title="EduFlex API")
 
+origins = [
+    "https://eduflexx.vercel.app",
+    "https://gilchristttt.github.io"
+]
+
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],  # change en prod
+    allow_origins=origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
 
 # ---------- Pydantic schemas ----------
 class PlanRequest(BaseModel):
